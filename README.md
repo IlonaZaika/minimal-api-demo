@@ -46,7 +46,7 @@ cd minimal-api-demo/Api
 docker compose up -d
 ```
 
-Default connection string:
+Default connection string (for demo purposes):
 
 ```pgsql
 Server=localhost,1433;Database=DemoDb;User Id=sa;Password=#2Pencil;TrustServerCertificate=True
