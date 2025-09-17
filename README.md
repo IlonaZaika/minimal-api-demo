@@ -120,11 +120,11 @@ Api/
 docker-compose.yml
 ```
 
-Domain → entity models
-Data → EF Core DbContext
-Contracts → interfaces (abstractions)
-Services → business logic implementations
-Api → endpoints (Minimal API)
+- Domain → entity models
+- Data → EF Core DbContext
+- Contracts → interfaces (abstractions)
+- Services → business logic implementations
+- Api → endpoints (Minimal API)
 
 ### ✅ Features
 
